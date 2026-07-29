@@ -115,3 +115,8 @@ The application will automatically save all data and load it when you restart.
 ![Project screenshot 3](PersonalBudgetConsole/personalBudgetPic/WhatsApp%20Image%202026-07-29%20at%203.11.11%20PM.jpeg)
 
 ![Project screenshot 4](PersonalBudgetConsole/personalBudgetPic/WhatsApp%20Image%202026-07-29%20at%203.16.49%20PM.jpeg)
+
+
+Additional: same screenshot (explicit link you provided):
+
+![Project screenshot (explicit)](https://github.com/mashaelemam77/Personal-Budget-Tracker/blob/main/PersonalBudgetConsole/personalBudgetPic/WhatsApp%20Image%202026-07-29%20at%203.16.49%20PM.jpeg)
