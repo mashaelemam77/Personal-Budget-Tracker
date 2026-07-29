@@ -1,13 +1,5 @@
 # Personal Budget Tracker
 
-![Project screenshot 1](PersonalBudgetConsole/personalBudgetPic/WhatsApp%20Image%202026-07-29%20at%203.08.03%20PM.jpeg)
-
-![Project screenshot 2](PersonalBudgetConsole/personalBudgetPic/WhatsApp%20Image%202026-07-29%20at%203.09.15%20PM.jpeg)
-
-![Project screenshot 3](PersonalBudgetConsole/personalBudgetPic/WhatsApp%20Image%202026-07-29%20at%203.11.11%20PM.jpeg)
-
-![Project screenshot 4](PersonalBudgetConsole/personalBudgetPic/WhatsApp%20Image%202026-07-29%20at%203.16.49%20PM.jpeg)
-
 A simple console-based application for managing personal finances, built with C# and .NET 9.0.
 
 ## Features
@@ -111,3 +103,15 @@ PersonalBudgetConsole/
 6. Check budget status to see if you're over budget
 
 The application will automatically save all data and load it when you restart.
+
+
+## project pictures 
+
+
+![Project screenshot 1](PersonalBudgetConsole/personalBudgetPic/WhatsApp%20Image%202026-07-29%20at%203.08.03%20PM.jpeg)
+
+![Project screenshot 2](PersonalBudgetConsole/personalBudgetPic/WhatsApp%20Image%202026-07-29%20at%203.09.15%20PM.jpeg)
+
+![Project screenshot 3](PersonalBudgetConsole/personalBudgetPic/WhatsApp%20Image%202026-07-29%20at%203.11.11%20PM.jpeg)
+
+![Project screenshot 4](PersonalBudgetConsole/personalBudgetPic/WhatsApp%20Image%202026-07-29%20at%203.16.49%20PM.jpeg)
