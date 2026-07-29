@@ -1,0 +1,43 @@
+C:\Users\DELL\source\repos\PersonalBudgetConsole\PersonalBudgetConsole\bin\Debug\net9.0\PersonalBudgetConsole.exe
+C:\Users\DELL\source\repos\PersonalBudgetConsole\PersonalBudgetConsole\bin\Debug\net9.0\PersonalBudgetConsole.deps.json
+C:\Users\DELL\source\repos\PersonalBudgetConsole\PersonalBudgetConsole\bin\Debug\net9.0\PersonalBudgetConsole.runtimeconfig.json
+C:\Users\DELL\source\repos\PersonalBudgetConsole\PersonalBudgetConsole\bin\Debug\net9.0\PersonalBudgetConsole.dll
+C:\Users\DELL\source\repos\PersonalBudgetConsole\PersonalBudgetConsole\bin\Debug\net9.0\PersonalBudgetConsole.pdb
+C:\Users\DELL\source\repos\PersonalBudgetConsole\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\PersonalBudgetConsole\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\PersonalBudgetConsole\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.AssemblyInfo.cs
+C:\Users\DELL\source\repos\PersonalBudgetConsole\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PersonalBudgetConsole\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.dll
+C:\Users\DELL\source\repos\PersonalBudgetConsole\PersonalBudgetConsole\obj\Debug\net9.0\refint\PersonalBudgetConsole.dll
+C:\Users\DELL\source\repos\PersonalBudgetConsole\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.pdb
+C:\Users\DELL\source\repos\PersonalBudgetConsole\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.genruntimeconfig.cache
+C:\Users\DELL\source\repos\PersonalBudgetConsole\PersonalBudgetConsole\obj\Debug\net9.0\ref\PersonalBudgetConsole.dll
+C:\Users\illxm\Desktop\PersonalBudgetConsole\bin\Debug\net9.0\PersonalBudgetConsole.exe
+C:\Users\illxm\Desktop\PersonalBudgetConsole\bin\Debug\net9.0\PersonalBudgetConsole.deps.json
+C:\Users\illxm\Desktop\PersonalBudgetConsole\bin\Debug\net9.0\PersonalBudgetConsole.runtimeconfig.json
+C:\Users\illxm\Desktop\PersonalBudgetConsole\bin\Debug\net9.0\PersonalBudgetConsole.dll
+C:\Users\illxm\Desktop\PersonalBudgetConsole\bin\Debug\net9.0\PersonalBudgetConsole.pdb
+C:\Users\illxm\Desktop\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\illxm\Desktop\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.AssemblyInfoInputs.cache
+C:\Users\illxm\Desktop\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.AssemblyInfo.cs
+C:\Users\illxm\Desktop\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.csproj.CoreCompileInputs.cache
+C:\Users\illxm\Desktop\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.dll
+C:\Users\illxm\Desktop\PersonalBudgetConsole\obj\Debug\net9.0\refint\PersonalBudgetConsole.dll
+C:\Users\illxm\Desktop\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.pdb
+C:\Users\illxm\Desktop\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.genruntimeconfig.cache
+C:\Users\illxm\Desktop\PersonalBudgetConsole\obj\Debug\net9.0\ref\PersonalBudgetConsole.dll
+C:\Users\illxm\Desktop\old projects\PersonalBudgetConsole\bin\Debug\net9.0\PersonalBudgetConsole.exe
+C:\Users\illxm\Desktop\old projects\PersonalBudgetConsole\bin\Debug\net9.0\PersonalBudgetConsole.deps.json
+C:\Users\illxm\Desktop\old projects\PersonalBudgetConsole\bin\Debug\net9.0\PersonalBudgetConsole.runtimeconfig.json
+C:\Users\illxm\Desktop\old projects\PersonalBudgetConsole\bin\Debug\net9.0\PersonalBudgetConsole.dll
+C:\Users\illxm\Desktop\old projects\PersonalBudgetConsole\bin\Debug\net9.0\PersonalBudgetConsole.pdb
+C:\Users\illxm\Desktop\old projects\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\illxm\Desktop\old projects\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.AssemblyInfoInputs.cache
+C:\Users\illxm\Desktop\old projects\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.AssemblyInfo.cs
+C:\Users\illxm\Desktop\old projects\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.csproj.CoreCompileInputs.cache
+C:\Users\illxm\Desktop\old projects\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.dll
+C:\Users\illxm\Desktop\old projects\PersonalBudgetConsole\obj\Debug\net9.0\refint\PersonalBudgetConsole.dll
+C:\Users\illxm\Desktop\old projects\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.pdb
+C:\Users\illxm\Desktop\old projects\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.genruntimeconfig.cache
+C:\Users\illxm\Desktop\old projects\PersonalBudgetConsole\obj\Debug\net9.0\ref\PersonalBudgetConsole.dll
+C:\Users\illxm\Desktop\old projects\PersonalBudgetConsole\obj\Debug\net9.0\PersonalBudgetConsole.sourcelink.json
