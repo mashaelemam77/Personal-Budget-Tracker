@@ -51,7 +51,7 @@ A simple console-based application for managing personal finances, built with C#
 
 ## Object-Oriented Design
 
-### Classes and Their Responsibilities:
+###  Classes and Their Responsibilities:
 
 1. **Transaction Class**
    - Encapsulates transaction data (Date, Description, Amount, Category, Type)
