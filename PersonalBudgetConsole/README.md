@@ -103,3 +103,15 @@ PersonalBudgetConsole/
 6. Check budget status to see if you're over budget
 
 The application will automatically save all data and load it when you restart.
+
+
+## project pictures
+
+
+![Project screenshot 1](personalBudgetPic/WhatsApp%20Image%202026-07-29%20at%203.08.03%20PM.jpeg)
+
+![Project screenshot 2](personalBudgetPic/WhatsApp%20Image%202026-07-29%20at%203.09.15%20PM.jpeg)
+
+![Project screenshot 3](personalBudgetPic/WhatsApp%20Image%202026-07-29%20at%203.11.11%20PM.jpeg)
+
+![Project screenshot 4](personalBudgetPic/WhatsApp%20Image%202026-07-29%20at%203.16.49%20PM.jpeg)
