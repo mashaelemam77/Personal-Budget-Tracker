@@ -1,5 +1,7 @@
 # Personal Budget Tracker
 
+![Project screenshot](PersonalBudgetConsole/personalBudgetPic/WhatsApp%20Image%202026-07-29%20at%203.08.03%20PM.jpeg)
+
 A simple console-based application for managing personal finances, built with C# and .NET 9.0.
 
 ## Features
